@@ -1,4 +1,5 @@
 # cropsenseai-backend
+link to video: https://drive.google.com/drive/u/0/folders/1ZB9uQpjgYYb1mhTxjDIFI-xhPSRw0smi
  # Images from the app
  <img width="296" height="456" alt="image" src="https://github.com/user-attachments/assets/8c0dbddc-6f8d-4212-bf18-a7fbe2c61736" />
  <img width="296" height="456" alt="image" src="https://github.com/user-attachments/assets/aa18c0c6-0365-4bf9-89be-bc0e68052657" />
